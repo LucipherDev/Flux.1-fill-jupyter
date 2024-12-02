@@ -13,6 +13,8 @@
 
 ## Features
 
+*For More Information on Crop and Stitch Settings: https://github.com/lquesada/ComfyUI-Inpaint-CropAndStitch*
+
 ### Inpainting
 
 - With built-in Inpaint mask drawing interface from [LucipherDev/Colab-Inpaint-Interface-jupyter](https://github.com/LucipherDev/Colab-Inpaint-Interface-jupyter)
