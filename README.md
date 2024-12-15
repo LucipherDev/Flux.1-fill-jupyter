@@ -2,7 +2,7 @@
 
 - Inpainting | Outpainting, with Flux.1 Fill dev
 - Works in Google Colab Free Teir T4 GPU 🥳🥳
-- Uses [Flux.1-fill GGUF](https://huggingface.co/YarvixPA/FLUX.1-Fill-dev-gguf) models
+- Uses [Flux.1-fill GGUF](https://huggingface.co/YarvixPA/FLUX.1-Fill-dev-gguf) model
 
 ## Notebooks
 
